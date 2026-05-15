@@ -77,5 +77,4 @@ Counselling incurs the highest session cost.
 CBT appears to offer strong cost efficiency.
 Practitioner outcomes vary significantly.
 Group Therapy has the highest average cost.
-Financial investment and clinical outcomes do not always correlate directly.
-📷 Dashboard Preview
+
