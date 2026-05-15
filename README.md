@@ -56,7 +56,7 @@ patient outcomes,
 operational efficiency,
 and financial sustainability.
 
- Project Goals
+Project Goals
 This dashboard aims to:
 Improve visibility into service performance
 Support evidence-based decision-making
@@ -71,7 +71,7 @@ Healthcare Analytics
 KPI Reporting
 Performance Monitoring
 
- Key Takeaways
+Key Takeaways
 Counselling incurs the highest session cost.
 CBT appears to offer strong cost efficiency.
 Practitioner outcomes vary significantly.
